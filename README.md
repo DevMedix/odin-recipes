@@ -4,8 +4,8 @@ This project is based on food recipes. it provides descriptions, ingredients and
 
 HTML tags which includes:
 
-  1. The List tag (<li></li>)
-  2. The image tag (<img />)
+  1. The List tag
+  2. The image tag
   3. The heading tag
 
 and several others... were used in creating this project.
